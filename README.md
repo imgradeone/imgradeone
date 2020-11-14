@@ -17,8 +17,8 @@ There are tons of ways to contact me, which could be found at [my website](https
 
 **DokiMod** is a small group (with only 2 people yet) for Chinese *Doki Doki Literature Club!* Mod. We introduce some special things to evolve your mod.
 
-- Website: https://dokimod.cn
-- GitHub: @DokiMod
+- Website: https://dokimod.cn or https://dokimod.github.io
+- GitHub: [@DokiMod](https://github.com/DokiMod)
 
 ### Translations by imgradeone
 I am currently working for some open-source projects to translate them into Chinese or make the translations better.
