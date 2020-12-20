@@ -11,6 +11,7 @@ There are tons of ways to contact me, which could be found at [my website](https
 
 ### Owned Projects
 - [DDLC 中文 Mod 模板](https://github.com/imgradeone/DDLCModTemplate-Chinese)
+- [Futuric](https://github.com/imgradeone/futuric)
 - and more coming soon
 
 ### DokiMod
