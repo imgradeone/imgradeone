@@ -1,3 +1,5 @@
+<h2 align="center">Kobaryo is GOD!!!!!!!!!!!1111111111111</h2>
+
 ### This is *imgradeone*
 
 You can directly call me **imgradeone**, or actually **"imgradeone" Yan**. If you speak Chinese, you can call me **一年级么么哒** or **一么桑 / 一么酱** as well.
