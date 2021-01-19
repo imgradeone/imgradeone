@@ -11,6 +11,10 @@ You can directly call me **imgradeone**, or actually **"imgradeone" Yan**. If yo
 
 There are tons of ways to contact me, which could be found at [my website](https://imgradeone.com) or from [this link](https://blog.imgradeone.xyz/post/about) (only avaliavle in Chinese yet).
 
+### Stats
+
+[![imgradeone's github stats](https://github-readme-stats.vercel.app/api?username=imgradeone)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Owned Projects
 - [DDLC 中文 Mod 模板](https://github.com/imgradeone/DDLCModTemplate-Chinese)
 - [Futuric](https://github.com/imgradeone/futuric)
