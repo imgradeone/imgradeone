@@ -1,4 +1,4 @@
-<h2 align="center">Kobaryo is GOD!!!!!!!!!!!1111111111111</h2>
+<h2 align="center">THE CITY IS SICK!!!!!!!!!!!1111111111111</h2>
 
 ### This is *imgradeone*
 
