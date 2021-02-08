@@ -13,7 +13,7 @@ There are tons of ways to contact me, which could be found at [my website](https
 
 ### Stats
 
-[![imgradeone's github stats](https://github-readme-stats.vercel.app/api?username=imgradeone&title_color=fa4694)](https://github.com/anuraghazra/github-readme-stats)
+[![imgradeone's github stats](https://github-readme-stats.vercel.app/api?username=imgradeone&title_color=fa4694&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Owned Projects
 - [DDLC 中文 Mod 模板](https://github.com/imgradeone/DDLCModTemplate-Chinese)
