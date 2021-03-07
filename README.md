@@ -11,7 +11,7 @@ You can directly call me **imgradeone**, or actually **"imgradeone" Yan**. If yo
 
 There are tons of ways to contact me, which could be found at [my website](https://imgradeone.com) or from [this link](https://blog.imgradeone.xyz/post/about) (only avaliavle in Chinese yet).
 
-### Stats
+### Stats ![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/772?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 [![imgradeone's github stats](https://github-readme-stats.vercel.app/api?username=imgradeone&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
