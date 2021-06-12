@@ -1,6 +1,4 @@
-<h2 align="center">bring my octocat back to my profile okay???</h2>
-
-### This is *imgradeone*
+<img width="1680" alt="Profile banner - 1 (1)" src="https://user-images.githubusercontent.com/30969327/121777682-f12a2900-cbc5-11eb-9df5-f10ee1b14ffe.png">
 
 You can directly call me **imgradeone**, or actually **"imgradeone" Yan**. If you speak Chinese, you can call me **一年级么么哒** or **一么桑 / 一么酱** as well.
 
