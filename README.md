@@ -7,9 +7,9 @@ You can directly call me **imgradeone**, or actually **"imgradeone" Yan**. If yo
 - 📧 Email: imgradeone@outlook.com
 - Website: https://imgradeone.com
 
-There are tons of ways to contact me, which could be found at [my website](https://imgradeone.com) or from [this link](https://blog.imgradeone.xyz/post/about) (only avaliavle in Chinese yet).
+There are tons of ways to contact me, which could be found at [my website](https://imgradeone.com) or from [this link](https://blog.imgradeone.com/post/about) (only avaliavle in Chinese yet).
 
-### Stats ![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/772?logoColor=white%26project=%26recentMS=0%26showProject=false) ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/772?logoColor=white%26project=LetHerFall%26recentMS=604800000%26showProject=true)
+### Stats ![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/772?logoColor=white%26project=%26recentMS=0%26showProject=false)
 
 [![imgradeone's github stats](https://github-readme-stats.vercel.app/api?username=imgradeone&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -35,12 +35,12 @@ I am currently working for some open-source projects to translate them into Chin
 - [Scratch (not mainly)](https://scratch.mit.edu) - Imagine, Program, Share
 - [osu!web (not mainly)](https://osu.ppy.sh) - Rhythm is just a *click* away.
 - [Doki Doki Mod Manager](https://doki.space) - A beautiful mod manager and installer for Doki Doki Literature Club
-- [Vivaldi](https://vivaldi.com) - A browser for our friends
+- ~~[Vivaldi](https://vivaldi.com) - A browser for our friends~~ stopped translating. I couldn't stand for the weird translation quality.
 
 ### InsanerYuri?
 You may notice that there is a guy called **InsanerYuri**. This is the ***extremely insane side*** of me, which is insanely rude.
 
-- Her "website" (which is a remake of [yuri.dance](https://yuri.dance)): https://insaneryuri.cn
+But actually she's "dead".
 
 <!--
 **imgradeone/imgradeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
