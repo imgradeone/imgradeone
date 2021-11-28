@@ -9,11 +9,13 @@ You can directly call me **imgradeone**, or actually **"imgradeone" Yan**. If yo
 
 There are tons of ways to contact me, which could be found at [my website](https://imgradeone.com) or from [this link](https://blog.imgradeone.com/post/about) (only avaliavle in Chinese yet).
 
-### Stats ![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/772?logoColor=white%26project=%26recentMS=0%26showProject=false)
+### Stats
 
 [![imgradeone's github stats](https://github-readme-stats.vercel.app/api?username=imgradeone&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://wakatime.com/share/@imgradeone/3ba7e5fa-bbb9-4fa7-ad08-064824eabfd3.svg)
+
+![card](https://github.com/imgradeone/netease-music-card/blob/main/card.svg)
 
 ### Owned Projects
 - [DDLC 中文 Mod 模板](https://github.com/imgradeone/DDLCModTemplate-Chinese)
