@@ -37,7 +37,7 @@ I am currently working for some projects to translate them into Chinese or make 
 - [Scratch (not mainly)](https://scratch.mit.edu) - Imagine, Program, Share
 - [osu!web (not mainly)](https://osu.ppy.sh) - Rhythm is just a *click* away.
 - [Doki Doki Mod Manager](https://doki.space) - A beautiful mod manager and installer for Doki Doki Literature Club
-- [Vivaldi](https://vivaldi.com) - A browser for our friends
+- [Vivaldi (not very mainly)](https://vivaldi.com) - A browser for our friends
 - [Pantheon Tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks)
 
 ### InsanerYuri?
