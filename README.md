@@ -4,7 +4,7 @@ You can directly call me **imgradeone**, or actually **"imgradeone" Yan**. If yo
 
 ### Get in touch
 
-- 📧 Email: imgradeone@outlook.com
+- 📧 Email: imgradeone@outlook.com or thisis@imgrade.one
 - Website: https://imgradeone.com
 
 There are tons of ways to contact me, which could be found at [my website](https://imgradeone.com) or from [this link](https://blog.imgradeone.com/post/about) (only avaliavle in Chinese yet).
