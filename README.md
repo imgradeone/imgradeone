@@ -40,10 +40,8 @@ I am currently working for some projects to translate them into Chinese or make 
 - [Vivaldi (not very mainly)](https://vivaldi.com) - A browser for our friends
 - [Pantheon Tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks)
 
-### InsanerYuri?
-You may notice that there is a guy called **InsanerYuri**. This is the ***extremely insane side*** of me, which is insanely rude.
-
-But actually she's "dead".
+### Insanitia?
+You may notice that there is a guy called **Insanitia** (InsanerYuri before). This is the ***extremely insane side*** of me, which is insanely rude.
 
 <!--
 **imgradeone/imgradeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
