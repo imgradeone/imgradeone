@@ -16,6 +16,7 @@ There are tons of ways to contact me, which could be found at [my website](https
 ![](https://wakatime.com/share/@imgradeone/3ba7e5fa-bbb9-4fa7-ad08-064824eabfd3.svg)
 
 ### Owned Projects
+- [WikiMimo](https://www.wikimimo.com)
 - [DDLC 中文 Mod 模板](https://github.com/imgradeone/DDLCModTemplate-Chinese)
 - [Futuric](https://github.com/imgradeone/futuric)
 - and more coming soon
@@ -37,9 +38,6 @@ I am currently working for some projects to translate them into Chinese or make 
 - [Doki Doki Mod Manager](https://doki.space) - A beautiful mod manager and installer for Doki Doki Literature Club
 - [Vivaldi (not very mainly)](https://vivaldi.com) - A browser for our friends
 - [Pantheon Tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks)
-
-### Insanitia?
-You may notice that there is a guy called **Insanitia** (InsanerYuri before). This is the ***extremely insane side*** of me, which is insanely rude.
 
 <!--
 **imgradeone/imgradeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
