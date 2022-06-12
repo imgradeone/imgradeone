@@ -13,6 +13,8 @@ There are tons of ways to contact me, which could be found at [my website](https
 
 [![imgradeone's github stats](https://github-readme-stats.vercel.app/api?username=imgradeone&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=pycv3u9qddktoxx86nvns0q6a)
+
 ![](https://wakatime.com/share/@imgradeone/3ba7e5fa-bbb9-4fa7-ad08-064824eabfd3.svg)
 
 ### Owned Projects
