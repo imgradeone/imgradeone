@@ -18,7 +18,6 @@ There are tons of ways to contact me, which could be found at [my website](https
 ![](https://wakatime.com/share/@imgradeone/3ba7e5fa-bbb9-4fa7-ad08-064824eabfd3.svg)
 
 ### Owned Projects
-- [WikiMimo](https://www.wikimimo.com) [![wakatime](https://wakatime.com/badge/github/imgradeone/wikimimo.svg)](https://wakatime.com/badge/github/imgradeone/wikimimo)
 - [DDLC 中文 Mod 模板](https://github.com/imgradeone/DDLCModTemplate-Chinese)
 - [Futuric](https://github.com/imgradeone/futuric)
 - and more coming soon
