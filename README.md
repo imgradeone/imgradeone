@@ -2,6 +2,10 @@
 
 **Due to some issues, I might no longer create new open-sorce projects.** Thanks for supporting my projects (even though only few guys noticed).
 
+Further contributions and current projects will be continued.
+
+---
+
 You can directly call me **imgradeone**, or actually **"imgradeone" Yan**.
 
 ### Get in touch
