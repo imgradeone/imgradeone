@@ -13,7 +13,7 @@ You can directly call me **imgradeone**, or actually **"imgradeone" Yan**.
 - 📧 Email: imgradeone@outlook.com or thisis@imgrade.one
 - Website: https://imgradeone.com
 
-There are tons of ways to contact me, which could be found at [my website](https://imgradeone.com) or from [this link](https://blog.imgradeone.com/post/about) (only avaliavle in Chinese yet).
+There are tons of ways to contact me, which could be found at [my website](https://imgradeone.com).
 
 ### Stats
 
@@ -23,14 +23,13 @@ There are tons of ways to contact me, which could be found at [my website](https
 
 ### Projects
 - [DDLC 中文 Mod 模板 4.0](https://github.com/DokiMod/DDLCModTemplate-Chinese-future)
-- [Futuric](https://github.com/imgradeone/futuric)
 - and more coming soon
 
 ### DokiMod
 
 **DokiMod** is a small group (with only 2 people yet) for Chinese *Doki Doki Literature Club!* Mod. We introduce some special things to evolve your mod.
 
-- Website: https://dokimod.cn or https://dokimod.github.io
+- Website: https://dokimod.cn or https://dokimod.github.io (dokimod.top in the future)
 - GitHub: [@DokiMod](https://github.com/DokiMod)
 
 ### Translations by imgradeone
