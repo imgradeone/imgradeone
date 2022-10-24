@@ -6,7 +6,7 @@ Further contributions and current projects will be continued.
 
 ---
 
-You can directly call me **imgradeone**, or actually **"imgradeone" Yan**.
+You can directly call me **imgradeone**, or actually **"imgradeone" Yan**. (For Chinese users, DO NOT CALL ME `一年级` UNLESS YOU WANT TO BE SLAPPED)
 
 ### Get in touch
 
