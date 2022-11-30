@@ -6,7 +6,7 @@ Further contributions and current projects will be continued.
 
 ---
 
-You can directly call me **imgradeone**. (For Chinese users, DO NOT CALL ME `一年级` UNLESS YOU WANT TO BE SLAPPED)
+You can directly call me **imgradeone**. (For Chinese users, you'd better not call me `一年级` however)
 
 ### Get in touch
 
@@ -33,6 +33,7 @@ I am currently working for some projects to translate them into Chinese or make 
 - [Doki Doki Mod Manager](https://doki.space) - A beautiful mod manager and installer for Doki Doki Literature Club
 - [Vivaldi (not very mainly)](https://vivaldi.com) - A browser for our friends
 - [Pantheon Tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks)
+- [Osekai](https://osekai.net)
 
 <!--
 **imgradeone/imgradeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
