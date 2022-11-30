@@ -11,15 +11,6 @@ You can directly call me **imgradeone**. (For Chinese users, DO NOT CALL ME `一
 ### Get in touch
 
 - 📧 Email: imgradeone@outlook.com or thisis@imgrade.one
-- Website: https://imgradeone.com
-
-There are tons of ways to contact me, which could be found at [my website](https://imgradeone.com).
-
-### Stats
-
-[![imgradeone's github stats](https://github-readme-stats.vercel.app/api?username=imgradeone&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://wakatime.com/share/@imgradeone/3ba7e5fa-bbb9-4fa7-ad08-064824eabfd3.svg)
 
 ### Projects
 - [DDLC 中文 Mod 模板 4.0](https://github.com/DokiMod/DDLCModTemplate-Chinese-future)
