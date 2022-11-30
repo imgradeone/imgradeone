@@ -1,29 +1,26 @@
-## this is imgradeone
+# this is imgradeone
 
-**Due to some issues, I might no longer create new open-sorce projects.** Thanks for supporting my projects (even though only few guys noticed).
+You can directly call me **imgradeone**. (you'd better NOT call me `一年级` however)
 
-Further contributions and current projects will be continued.
+## [Announcement](./announcement.md)
 
----
+- Open-Source projects *might* no longer be created
 
-You can directly call me **imgradeone**. (For Chinese users, you'd better not call me `一年级` however)
-
-### Get in touch
+## Get in touch
 
 - 📧 Email: imgradeone@outlook.com or thisis@imgrade.one
 
-### Projects
+## Projects
 - [DDLC 中文 Mod 模板 4.0](https://github.com/DokiMod/DDLCModTemplate-Chinese-future)
-- and more coming soon
 
-### DokiMod
+## DokiMod
 
-**DokiMod** is a small group (with only 2 people yet) for Chinese *Doki Doki Literature Club!* Mod. We introduce some special things to evolve your mod.
+**DokiMod** is a small group (with only 2 people yet) for Chinese *Doki Doki Literature Club!* Mod.
 
 - Website: https://dokimod.cn or https://dokimod.github.io (dokimod.top in the future)
 - GitHub: [@DokiMod](https://github.com/DokiMod)
 
-### Translations by imgradeone
+## Translations contributed by imgradeone
 I am currently working for some projects to translate them into Chinese or make the translations better.
 
 - [elementary OS](https://elementary.io) - The fast, open, and privacy-respecting replacement for Windows and macOS
