@@ -5,6 +5,7 @@ You can directly call me **imgradeone**. (you'd better NOT call me `一年级` h
 ## [Announcement](./announcement.md)
 
 - Open-Source projects *might* no longer be created
+- 如果你想通过 GitHub 对我进行“视奸”，那我请你直接滚蛋，谢谢。
 
 ## Get in touch
 
