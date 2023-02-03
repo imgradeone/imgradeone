@@ -32,6 +32,7 @@ I am currently working for some projects to translate them into Chinese or make 
 - [Vivaldi (not very mainly)](https://vivaldi.com) - A browser for our friends
 - [Pantheon Tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks)
 - [Osekai](https://osekai.net)
+- [PeerTube](https://joinpeertube.org) (especially the website)
 
 <!--
 **imgradeone/imgradeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
