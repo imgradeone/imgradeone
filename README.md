@@ -1,5 +1,7 @@
 # this is imgradeone
 
+> 以硬核、热爱，穿梭于不同次元，留住更多美好。
+
 You can directly call me **imgradeone**. (you'd better NOT call me `一年级` however)
 
 ## [Announcement](./announcement.md)
