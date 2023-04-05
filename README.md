@@ -7,7 +7,7 @@ You can directly call me **imgradeone**. (you'd better NOT call me `一年级` h
 ## [Announcement](./announcement.md)
 
 - Open-Source projects *might* no longer be created
-- 如果你注册 GitHub 的目的完全不是为了托管代码，而是想通过 GitHub 对我进行“视奸”，乃至于恶意利用我的项目，那我请你直接滚蛋，谢谢。虽然在 GitHub 上把您 block 了不一定代表全平台 block。
+- 如果你注册 GitHub 的目的完全不是为了托管代码，而是想通过 GitHub 对我进行“视奸”，乃至于恶意利用我的项目，那我请你直接滚蛋，谢谢。虽然在 GitHub 上把您 block 了不一定代表全平台 block。放心，不会像某位贬低 Figma 捧吹 MasterGo 的大蛇那样 jerk。
 - WikiMimo 已经死了。不会复活。谢谢。活着的叫 [WikiMimo Archive](https://archive.wikimimo.com/)，不是百科站点，不开源。
 
 ## Get in touch
