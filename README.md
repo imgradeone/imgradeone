@@ -32,13 +32,14 @@ I am currently working for some projects to translate them into Chinese or make 
 - [elementary OS](https://elementary.io) - The fast, open, and privacy-respecting replacement for Windows and macOS
 - [ModernFlyouts](https://github.com/ShankarBUS/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows since Windows 8
 - [Scratch (not mainly)](https://scratch.mit.edu) - Imagine, Program, Share
-- [osu!web (not mainly)](https://osu.ppy.sh) - Rhythm is just a *click* away.
+- [osu!web + osu!(lazer)](https://osu.ppy.sh) - Rhythm is just a *click* away. (not mainly)
 - [Doki Doki Mod Manager](https://doki.space) - A beautiful mod manager and installer for Doki Doki Literature Club
 - [Vivaldi (not very mainly)](https://vivaldi.com) - A browser for our friends
 - [Pantheon Tweaks](https://github.com/pantheon-tweaks/pantheon-tweaks)
 - [Osekai](https://osekai.net)
 - [PeerTube](https://joinpeertube.org) (especially the website)
 - [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) (minor fixes)
+- [SD Maid 2/SE](https://github.com/d4rken-org/sdmaid-se) (not mainly)
 
 <!--
 **imgradeone/imgradeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
