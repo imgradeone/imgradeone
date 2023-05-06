@@ -12,10 +12,6 @@ You can directly call me **imgradeone**. (you'd better NOT call me `一年级` h
 - 对于好斗逞能的猴子，应该像远离毒气瘟疫一样远离他，一生都要与之保持最大距离。—— 小衲
 - isn't that 把中文和 English mix 到一起很 cyberpunk? lul
 
-### WikiMimo 致歉文
-
-这里是 WikiMimo。非常抱歉，之前本站的“反黑默示录”条目（或者说，整个“网络异闻录”版块）以及部分注释文本给其他人带来了不好的声誉影响，在此向受影响者致歉。在编写“反黑默示录”时，我过度带入自己的个人情绪，导致他人名誉受损。反黑、反“激进人”这件事并不是一个创作者所应做的，在原站关闭后我也深刻地进行了反省。我已经知道有部分人士保留了 WikiMimo 的备份仓库并尝试举报或使用其内容；但我认为，我仍有必要再次面对自己之前所犯下的主观性错误。再插一句：WikiMimo 对隐私信息不感兴趣。如果流传的“备份档”里包含了其他本站未列出的隐私信息，那就是恶意栽赃。
-
 ## Get in touch
 
 - 📧 Email: imgradeone@outlook.com or thisis@imgrade.one
