@@ -11,6 +11,7 @@ You can directly call me **imgradeone**. (you'd better NOT call me `一年级` h
 - WikiMimo 已经死了。不会复活。谢谢。活着的叫 [WikiMimo Archive](https://archive.wikimimo.com/)，不是百科站点，不开源。
 - 对于好斗逞能的猴子，应该像远离毒气瘟疫一样远离他，一生都要与之保持最大距离。—— 小衲
 - isn't that 把中文和 English mix 到一起很 cyberpunk? lul
+- 如果您被我跨平台屏蔽 / 拉黑（全网，>= 3 个平台），那……自求多辐罢 xdddddddddddddddddddddddddd
 
 ## Get in touch
 
