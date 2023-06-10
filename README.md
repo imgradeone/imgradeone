@@ -12,6 +12,7 @@ You can directly call me **imgradeone**. (you'd better NOT call me `一年级` h
 - 对于好斗逞能的猴子，应该像远离毒气瘟疫一样远离他，一生都要与之保持最大距离。—— 小衲
 - isn't that 把中文和 English mix 到一起很 cyberpunk? lul
 - 如果您被我跨平台屏蔽 / 拉黑（全网，>= 3 个平台），那……自求多辐罢 xdddddddddddddddddddddddddd
+- 虽然我不是乐子壬，但是，如果你自恃、高傲、品行屌差，我可是会乐你的哦，乐你到死的那种。
 
 ## Get in touch
 
