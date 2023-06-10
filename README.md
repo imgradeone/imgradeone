@@ -13,6 +13,8 @@ You can directly call me **imgradeone**. (you'd better NOT call me `一年级` h
 - isn't that 把中文和 English mix 到一起很 cyberpunk? lul
 - 如果您被我跨平台屏蔽 / 拉黑（全网，>= 3 个平台），那……自求多辐罢 xdddddddddddddddddddddddddd
 - 虽然我不是乐子壬，但是，如果你自恃、高傲、品行屌差，我可是会乐你的哦，乐你到死的那种。
+- 你没权利管别人用的是什么系统。你踩归你踩，但是要是敢管，屏蔽不谢。
+- 拟物化疯批离我越远越好。
 
 ## Get in touch
 
