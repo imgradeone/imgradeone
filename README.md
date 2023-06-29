@@ -27,6 +27,8 @@ You can directly call me **imgradeone**. (you'd better NOT call me `一年级` h
 
 ## Get in touch
 
+![image](https://github.com/imgradeone/imgradeone/assets/30969327/cd648459-5faf-47fe-a4cc-f4bead3b90ed)
+
 - 📧 Email: imgradeone@outlook.com or thisis@imgrade.one
 
 ## Projects
