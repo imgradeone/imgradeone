@@ -4,7 +4,7 @@
 
 # this is imgradeone
 
-> 以硬核、热爱，穿梭于不同次元，留住更多美好。
+> 以硬核、热爱，穿梭于不同次元，留住更多美好。  
 > imgradeone.com 暂时重定向至此。头昏了，懒得做个人官网了。
 
 You can directly call me **imgradeone**. (you'd better NOT call me `一年级` however)
