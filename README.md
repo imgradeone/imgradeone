@@ -31,6 +31,8 @@ You can directly call me **imgradeone**. (you'd better NOT call me `一年级` h
 
 ![image](https://github.com/imgradeone/imgradeone/assets/30969327/cd648459-5faf-47fe-a4cc-f4bead3b90ed)
 
+![image](https://github.com/imgradeone/imgradeone/assets/30969327/c05f0ccb-da87-4e1e-8cef-b8d5e6c2feee)
+
 - 📧 Email: imgradeone@outlook.com or thisis@imgrade.one
 
 ## Projects
