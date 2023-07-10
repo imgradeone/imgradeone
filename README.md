@@ -11,6 +11,16 @@ You can directly call me **imgradeone**. (you'd better NOT call me `一年级` h
 
 ## [Announcement](./announcement.md)
 
+你说得对 但是
+《不正经问答》 imgradeone x Carrot_Fictional (aka CarrotTV) 制作的完全没有一点正经成分的问答互动系列视频
+开始征集你的赛博朋克提问
+
+这个问答不太一样哦 你的提问越不正经越好
+
+参与征集：[Discussions](https://github.com/imgradeone/imgradeone/discussions/1) / [Fediverse](https://social.vivaldi.net/@imgradeone/110688137298663250) / [bilibili](https://t.bilibili.com/816595629415333929)
+
+---
+
 ![image](https://github.com/imgradeone/imgradeone/assets/30969327/cfe07c31-dfc2-4d35-b6d2-75e63bfdc92f)
 
 - imgradeone.com 暂时重定向至此。头昏了，懒得做个人官网了。
