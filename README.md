@@ -9,7 +9,11 @@
 
 You can directly call me **imgradeone**. (you'd better NOT call me `一年级` however)
 
-## [Announcement](./announcement.md)
+## Announcement
+
+README 即将重做
+
+---
 
 你说得对 但是
 《不正经问答》 imgradeone x Carrot_Fictional (aka CarrotTV) 制作的完全没有一点正经成分的问答互动系列视频
@@ -28,11 +32,6 @@ You can directly call me **imgradeone**. (you'd better NOT call me `一年级` h
 - 如果你注册 GitHub 的目的完全不是为了托管代码，而是想通过 GitHub 对我进行“视奸”，乃至于恶意利用我的项目，那我请你自重，谢谢。虽然在 GitHub 上把您 block 了不一定代表全平台 block。放心，不会像某位贬低 Figma 捧吹 MasterGo 的大蛇那样 jerk。
 - WikiMimo 已经死了。不会复活。谢谢。活着的叫 [WikiMimo Archive](https://archive.wikimimo.com/)，不是百科站点，不开源。
 - 对于好斗逞能的猴子，应该像远离毒气瘟疫一样远离他，一生都要与之保持最大距离。—— 小衲
-- 如果您被我跨平台屏蔽 / 拉黑（全网，>= 3 个平台），那……自求多辐罢 xdddddddddddddddddddddddddd
-- 虽然我不是乐子壬，但是，如果你自恃、高傲、品行屌差，我可是会乐你的哦，乐你到死的那种。
-- 你没权利管别人用的是什么系统。你踩归你踩，但是要是敢管，屏蔽不谢。
-- 拟物化疯批离我越远越好。（我不反对拟物化，甚至还蛮喜欢，我只反对石乐志的家伙。）
-- 好想重做这个 README……但是懒。
 - sorry but I shuold not care about or be involved in those (or any) dramas
 
 ## Get in touch
