@@ -33,6 +33,7 @@ README 即将重做
 - WikiMimo 已经死了。不会复活。谢谢。活着的叫 [WikiMimo Archive](https://archive.wikimimo.com/)，不是百科站点，不开源。
 - 对于好斗逞能的猴子，应该像远离毒气瘟疫一样远离他，一生都要与之保持最大距离。—— 小衲
 - sorry but I shuold not care about or be involved in those (or any) dramas
+- 小朋友别碰 GitHub，不然真的会成人类黑历史的哟
 
 ## Get in touch
 
