@@ -68,6 +68,7 @@ I am currently working for some projects to translate them into Chinese or make 
 - [PeerTube](https://joinpeertube.org) (especially the website)
 - [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) (minor fixes)
 - [SD Maid 2/SE](https://github.com/d4rken-org/sdmaid-se) (not mainly)
+- [Collapse Launcher](https://github.com/neon-nyan/Collapse)
 
 <!--
 **imgradeone/imgradeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
