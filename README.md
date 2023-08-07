@@ -27,7 +27,6 @@ README 即将重做
 
 ![image](https://github.com/imgradeone/imgradeone/assets/30969327/cfe07c31-dfc2-4d35-b6d2-75e63bfdc92f)
 
-- 我去，这回真见识到 [“疯灵”](https://space.bilibili.com/524501321) 了。
 - imgradeone.com 暂时重定向至此。头昏了，懒得做个人官网了。
 - Open-Source projects *might* no longer be created
 - 如果你注册 GitHub 的目的完全不是为了托管代码，而是想通过 GitHub 对我进行“视奸”，乃至于恶意利用我的项目，那我请你自重，谢谢。虽然在 GitHub 上把您 block 了不一定代表全平台 block。放心，不会像某位贬低 Figma 捧吹 MasterGo 的大蛇那样 jerk。
