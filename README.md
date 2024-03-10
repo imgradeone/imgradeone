@@ -7,7 +7,7 @@ You can directly call me **imgradeone**. (you'd better NOT call me `一年级` h
 
 ## Announcement
 
-README 即将重做
+B哥退散 :grin: B哥退散 :grin: B哥退散 :grin: 
 
 ---
 
