@@ -1,5 +1,7 @@
 # this is imgradeone
 
+![88x13](https://github.com/imgradeone/imgradeone/assets/30969327/ee7f8f01-eae1-45a2-be71-63a8cd3c6489)
+
 > 以硬核、热爱，穿梭于不同次元，留住更多美好。<br>
 > imgradeone.com 已重定向至我的 SpaceHey 资料卡。头昏了，懒得做个人官网了。可恶，还得用 `<br>` 换行。
 
