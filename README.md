@@ -25,7 +25,8 @@ B哥退散 :grin: B哥退散 :grin: B哥退散 :grin:
 
 ![image](https://github.com/imgradeone/imgradeone/assets/30969327/c05f0ccb-da87-4e1e-8cef-b8d5e6c2feee)
 
-- 📧 Email: imgradeone(at)outlook.com (blocked `free.fr` and `btconnect.com` domain because of spamming; DO NOT JUST SEND "hello can we talk" or "在吗" or "I have something to tell you" WITHOUT ANY FURTHER INFO, or I will treat them as SPAM)
+- 📧 Email: imgradeone(at)outlook.com (this email address is already cursed and have been filled with craps)  
+  (blocked `free.fr` and `btconnect.com` domain because of spamming; DO NOT JUST SEND "hello can we talk" or "在吗" or "I have something to tell you" WITHOUT ANY FURTHER INFO, or I will treat them as SPAM)
 
 ## Projects
 - [DDLC 中文 Mod 模板 4.0](https://github.com/DokiMod/DDLCModTemplate-Chinese-future)
