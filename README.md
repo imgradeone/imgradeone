@@ -1,7 +1,7 @@
 # this is imgradeone
 
 > 以硬核、热爱，穿梭于不同次元，留住更多美好。<br>
-> imgradeone.com 已重定向至我的 SpaceHey 资料卡。头昏了，懒得做个人官网了。可恶，还得用 `<br>` 换行。
+> imgradeone.com 已重定向至我的 SpaceHey 资料卡。头昏了，暂时懒得做个人官网了。可恶，还得用 `<br>` 换行。
 
 You can directly call me **imgradeone**. (you'd better NOT call me `一年级` however)
 
@@ -13,7 +13,7 @@ B哥退散 :grin: B哥退散 :grin: B哥退散 :grin:
 
 ![image](https://github.com/imgradeone/imgradeone/assets/30969327/cfe07c31-dfc2-4d35-b6d2-75e63bfdc92f)
 
-- imgradeone.com 暂时重定向至此。头昏了，懒得做个人官网了。
+- imgradeone.com 已重定向至我的 SpaceHey 资料卡。头昏了，暂时懒得做个人官网了。
 - Open-Source projects *might* no longer be created
 - 如果你注册 GitHub (or even GitLab.com 啊哈哈) 的目的完全不是为了托管代码，而是想通过 GitHub (or even GitLab.com 啊哈哈) 对我进行“视奸”，乃至于恶意利用我的项目，那我请你自重，谢谢。虽然在 GitHub 上把您 block 了不一定代表全平台 block。放心，不会像某位贬低 Figma 捧吹 MasterGo 的大蛇那样。
 - WikiMimo 已经死了。不会复活。谢谢。活着的叫 [MimoArchive](https://archive.wikimimo.com/)（原名 WikiMimo Archive），不是百科站点，不开源。
