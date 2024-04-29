@@ -19,27 +19,17 @@ B哥退散 :grin: B哥退散 :grin: B哥退散 :grin:
 - WikiMimo 已经死了。不会复活。谢谢。活着的叫 [MimoArchive](https://archive.wikimimo.com/)（原名 WikiMimo Archive），不是百科站点，不开源。
 - sorry but I shuold not care about or be involved in those (or any) dramas
 
-## Get in touch
-
 ![image](https://github.com/imgradeone/imgradeone/assets/30969327/cd648459-5faf-47fe-a4cc-f4bead3b90ed)
 
 ![image](https://github.com/imgradeone/imgradeone/assets/30969327/c05f0ccb-da87-4e1e-8cef-b8d5e6c2feee)
 
-- 📧 Email: imgradeone(at)outlook.com (this email address is already cursed and have been filled with craps)  
-  (blocked `free.fr` and `btconnect.com` domain because of spamming; DO NOT JUST SEND "hello can we talk" or "在吗" or "I have something to tell you" WITHOUT ANY FURTHER INFO, or I will treat them as SPAM)
-
 ## Projects
-- [DDLC 中文 Mod 模板 4.0](https://github.com/DokiMod/DDLCModTemplate-Chinese-future)
 
-## DokiMod
+- No projects, literally.
+- if you think this is: [DDLC 中文 Mod 模板 4.0](https://github.com/DokiMod/DDLCModTemplate-Chinese-future)
 
-**DokiMod** is a small group (with only 2 people yet) for Chinese *Doki Doki Literature Club!* Mod.
-
-- Website: https://dokimod.cn or https://dokimod.github.io (dokimod.top in the future)
-- GitHub: [@DokiMod](https://github.com/DokiMod)
-
-## Translations contributed by imgradeone
-I am currently working for some projects to translate them into Chinese or make the translations better.
+## Translations contributed
+I previosly worked for some projects to translate them into Chinese or make the translations better. Now I just feel powerless, and contributions now are random.
 
 - [elementary OS](https://elementary.io) - The fast, open, and privacy-respecting replacement for Windows and macOS
 - [ModernFlyouts](https://github.com/ShankarBUS/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows since Windows 8
