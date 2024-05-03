@@ -9,6 +9,8 @@ You can directly call me **imgradeone**. (you'd better NOT call me `一年级` h
 
 B哥退散 :grin: B哥退散 :grin: B哥退散 :grin: 
 
+你 GitHub 啥时候出 block 同时屏蔽被 block 者发言的功能
+
 ---
 
 ![image](https://github.com/imgradeone/imgradeone/assets/30969327/cfe07c31-dfc2-4d35-b6d2-75e63bfdc92f)
