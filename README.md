@@ -7,19 +7,13 @@ You can directly call me **imgradeone**. (you'd better NOT call me `一年级` h
 
 ## Announcement
 
-B哥退散 :grin: B哥退散 :grin: B哥退散 :grin: 
-
-你 GitHub 啥时候出 block 同时屏蔽被 block 者发言的功能
-
----
-
-![image](https://github.com/imgradeone/imgradeone/assets/30969327/cfe07c31-dfc2-4d35-b6d2-75e63bfdc92f)
-
 - imgradeone.com 已重定向至我的 SpaceHey 资料卡。头昏了，暂时懒得做个人官网了。
 - Open-Source projects *might* no longer be created
 - 如果你注册 GitHub (or even GitLab.com 啊哈哈) 的目的完全不是为了托管代码，而是想通过 GitHub (or even GitLab.com 啊哈哈) 对我进行“视奸”，乃至于恶意利用我的项目，那我请你自重，谢谢。虽然在 GitHub 上把您 block 了不一定代表全平台 block。放心，不会像某位贬低 Figma 捧吹 MasterGo 的大蛇那样。
 - WikiMimo 已经死了。不会复活。谢谢。活着的叫 [MimoArchive](https://archive.wikimimo.com/)（原名 WikiMimo Archive），不是百科站点，不开源。
 - sorry but I shuold not care about or be involved in those (or any) dramas
+
+![image](https://github.com/imgradeone/imgradeone/assets/30969327/cfe07c31-dfc2-4d35-b6d2-75e63bfdc92f)
 
 ![image](https://github.com/imgradeone/imgradeone/assets/30969327/cd648459-5faf-47fe-a4cc-f4bead3b90ed)
 
