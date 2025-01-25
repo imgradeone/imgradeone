@@ -1,7 +1,7 @@
 # this is imgradeone
 
 > bruh that's boring<br>
-> imgradeone.com 已重定向至我的 SpaceHey 资料卡。头昏了，暂时懒得做个人官网了。可恶，还得用 `<br>` 换行。
+> imgradeone.com 现已重制，
 
 You can directly call me **imgradeone**. (you'd better NOT call me `一年级` however)
 
