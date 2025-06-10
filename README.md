@@ -3,7 +3,10 @@
 > bruh that's boring<br>
 > imgradeone.com 现已重制，
 
-You can directly call me **imgradeone**. (you'd better NOT call me `一年级` however)
+You can directly call me **imgradeone** or Yime Yan. (you'd better NOT call me `一年级` however)
+
+<details>
+  <summary>don't look</summary>
 
 ## Announcement
 
@@ -23,6 +26,7 @@ You can directly call me **imgradeone**. (you'd better NOT call me `一年级` h
 
 - No projects, literally.
 - if you think this is: [DDLC 中文 Mod 模板 4.0](https://github.com/DokiMod/DDLCModTemplate-Chinese-future)
+</details>
 
 ## Translations contributed
 I previosly worked for some projects to translate them into Chinese or make the translations better. Now I just feel powerless, and contributions now are random.
