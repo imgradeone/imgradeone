@@ -26,7 +26,6 @@ You can directly call me **imgradeone** or Yime Yan. (you'd better NOT call me `
 
 - No projects, literally.
 - if you think this is: [DDLC 中文 Mod 模板 4.0](https://github.com/DokiMod/DDLCModTemplate-Chinese-future)
-</details>
 
 ## Translations contributed
 I previosly worked for some projects to translate them into Chinese or make the translations better. Now I just feel powerless, and contributions now are random.
@@ -44,6 +43,8 @@ I previosly worked for some projects to translate them into Chinese or make the 
 - [SD Maid 2/SE](https://github.com/d4rken-org/sdmaid-se) (not mainly)
 - [Collapse Launcher](https://github.com/neon-nyan/Collapse)
 - [Geckium](https://github.com/angelbruni/Geckium)
+
+</details>
 
 <!--
 **imgradeone/imgradeone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
