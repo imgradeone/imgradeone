@@ -6,7 +6,7 @@
 You can directly call me **imgradeone** or Yime Yan. (you'd better NOT call me `一年级` however)
 
 <details>
-  <summary>don't look</summary>
+  <summary>outdated, don't look</summary>
 
 ## Announcement
 
