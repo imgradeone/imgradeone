@@ -1,4 +1,4 @@
-# this is imgradeone
+# STOP PROMOTING YOUR PROJECT TO MY EMAIL
 
 > bruh that's boring<br>
 > imgradeone.com 现已重制，
