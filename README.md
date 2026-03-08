@@ -1,4 +1,4 @@
-# STOP PROMOTING YOUR PROJECT TO MY EMAIL
+# STOP PROMOTING YOUR PROJECT TO MY EMAIL WITHOUT MY CONSENT
 
 > bruh that's boring<br>
 > imgradeone.com 现已重制，
